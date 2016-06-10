@@ -1,0 +1,7 @@
+This week, I learned the business rules, the E/R diagram and the physical and logical models. It was a good thing because, in our school, we have done that a long time ago.
+I made my first models, you can see them on this document: "DB Documentation.pdf". I tried to pake them as clear as possible.
+I made diagrams to explain the main objectives of the "new" system. You can see it on "DB Documentation.pdf"
+I made also, a first sql file in order to create the table with my database design. You can see it on the branch "sql" or in the file: "create_table.sql"
+
+The next week, I'll begin the DB implementation and perhaps improve the DB design. I'll learn to do a good database with mysql, with constraints and as efficient as possible.
+The objective at the end of the next week is to have an efficient database which I could use after.
