@@ -1,0 +1,5 @@
+This week, I have done the snaglist, and understand the system. You can see the snag list on this file "snag_list.pdf"
+I learned to use the system, and we made a schedule.
+
+Next week, I'll learn the database documentation, in particular the business rules, the E/R diagrams, the logical and physical models.
+I think I can do my first models in order to have a better view of the project.
